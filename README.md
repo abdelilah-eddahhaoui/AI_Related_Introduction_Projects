@@ -49,11 +49,11 @@ To explore or run any of the projects:
 
 | Project Folder             | Description                                                  |
 |----------------------------|--------------------------------------------------------------|
-| `tictactoe/`               | Minimax-based AI for Tic Tac Toe (Alpha-Beta Pruning try)   |
-| `degrees/`                 | Graph search for finding connection degrees between actors. |
-| `knights/`                 | Logic puzzle solver using propositional logic.              |
-| `shopping/`                | Naive Bayes classifier for e-commerce purchase predictions. |
-| `nims/`                    | Reinforcement learning to play the game of Nim.             |
+| `tictactoe/`               | Minimax-based AI for Tic Tac Toe (Alpha-Beta Pruning try)    |
+| `degrees/`                 | Graph search for finding connection degrees between actors.  |
+| `knights/`                 | Logic puzzle solver using propositional logic.               |
+| `minesweeper/`             | Minesweeper game played by the AI using logical sentences.   |
+| `nims/`                    | Reinforcement learning to play the game of Nim.              |
 | `pagerank/`                | Implementing PageRank algorithm.                             |
 | *(...)*                    | *(See folder list for all projects)*                         |
 
